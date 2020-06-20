@@ -23,5 +23,7 @@ footer{
 
 footer p{
 	margin: 0;
-	font-family: Amatic_SC, sans serif;
+}
+main img{
+	max-width: 100%;
 }
