@@ -25,3 +25,7 @@ footer p{
 	margin: 0;
 }
 
+main .drinks .waffles{
+	max-width: 100%;
+}
+
