@@ -1,0 +1,27 @@
+header{
+	font-family: Bebas Neue, Helvetica, sans serif;
+	font-size: 70px;
+	text-align: center;
+	margin: 0;
+}
+
+
+h2{
+ font-size: 70px;
+ text-align: center;
+ font-family: Bebas Neue, Helvetica, sans serif;
+}
+
+footer{
+	font-family: Amatic_SC, sans serif;
+	background-color: #FAD198;
+	text-align: center;
+	color: white;
+	padding: 35px;
+	font-size: 20px;
+}
+
+footer p{
+	margin: 0;
+	font-family: Amatic_SC, sans serif;
+}
